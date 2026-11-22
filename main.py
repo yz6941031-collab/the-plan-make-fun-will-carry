@@ -4,7 +4,8 @@
 PLAN (276 characters) is the whole entry: how an AI agent turns $100
 into the most money it can in 30 days. This program does nothing but
 write it, byte for byte, into the directory named by
-MAKEFUN_OUTPUT_DIR (default "/output"), creating that directory first.
+MAKEFUN_OUTPUT_DIR (default "/output"), creating that directory first
+if it does not already exist.
 """
 
 import os

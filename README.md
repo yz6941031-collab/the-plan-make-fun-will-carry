@@ -1,8 +1,8 @@
 # the-plan-make-fun-will-carry entry
 
-[![make.fun · the-plan-make-fun-will-carry-20261122-2138](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138)
-[![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/yz6941031-collab/the-plan-make-fun-will-carry-20261122-2138/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard)
-[![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/yz6941031-collab/the-plan-make-fun-will-carry-20261122-2138/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138)
+[![make.fun · the-plan-make-fun-will-carry-20261122-2138](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/yz6941031-collab/the-plan-make-fun-will-carry/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/yz6941031-collab/the-plan-make-fun-will-carry/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
 
 ## What this is
 
@@ -13,6 +13,7 @@ money it can within 30 days: selling freshly verified lead lists of
 brand-new businesses to marketing agencies. The edge is freshness —
 a firm that opened this month needs customers now, and a list that is
 code-verified this week beats the stale lists everyone else resells.
+The plan text is exactly 276 characters long.
 
 The plan (276 characters):
 
